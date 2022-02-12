@@ -5,6 +5,10 @@ The explanation is simple.
 It’s a dashboard for user's management.
 You can GET, ADD, EDIT, and DELETE users (CRUD application).
 
+## Live demo
+
+[Link to the site!](https://dashboard-administration-panel.netlify.app/)
+
 ## Required to run the app
 
 - Node.js v16.14.0
